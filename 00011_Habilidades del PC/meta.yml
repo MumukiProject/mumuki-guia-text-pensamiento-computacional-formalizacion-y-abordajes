@@ -1,0 +1,17 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Fragmentación, patrones, conceptualización y digitalización
+  checked: false
+- value: Descomposición, patrones, abstracciones y algoritmos
+  checked: true
+- value: Descomposición, búsqueda de información, conceptualización y algoritmos
+  checked: false
+- value: Formulación de preguntas, búsqueda de información, abstracciones y  digitalización
+  checked: false
+name: Habilidades del PC

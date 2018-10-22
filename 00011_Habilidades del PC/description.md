@@ -1,0 +1,1 @@
+> ¿Cuáles son las 4 habilidades principales de PC?
