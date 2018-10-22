@@ -1,0 +1,1 @@
+También podríamos por ejemplo usar patrones para identificar intereses de las personas según su edad, y elegir la temática del juego según ello. 
