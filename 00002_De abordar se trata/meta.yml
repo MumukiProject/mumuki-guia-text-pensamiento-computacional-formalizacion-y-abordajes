@@ -1,0 +1,21 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Convocar a l@s estudiantes que no se encuentran en la institución
+  checked: false
+- value: Mejorar el seguimiento de l@s estudiantes en la institución
+  checked: true
+- value: Aumentar el interés dentro de la escuela
+  checked: true
+- value: Aumentar las relaciones de la escuela con la comunidad educativa
+  checked: true
+- value: Crear Becas para estudiantes en situaciones vulneradas
+  checked: true
+- value: Que l@s estudiantes se sientan contenid@s en la institución
+  checked: true
+name: De abordar se trata
