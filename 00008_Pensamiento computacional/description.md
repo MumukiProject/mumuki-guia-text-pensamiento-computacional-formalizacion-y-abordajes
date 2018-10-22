@@ -1,0 +1,7 @@
+Las actividades anteriores nos ayudaron a visualizar con el ejemplo de la problemática de la desvinculación escolar las 4 habilidades de pensamiento computacional pero, ¿qué es ésto? ¡Definámoslo!
+
+El Pensamiento Computacional es un campo teórico indeterminado por su novedad y aún presenta debates para su construcción y definición. Lo consideramos una forma de articular herramientas para generar procesos de pensamiento basados en la formulación de problemas que admitan posibles soluciones computables.
+Estas soluciones pueden ser llevadas a cabo por personas y/o computadoras. Fomentan el análisis y la organización de procedimientos. Las habilidades adquiridas por esta práctica son útiles para todas las personas: el pensamiento divergente o lateral, la creatividad, la resolución de problemas, el pensamiento abstracto, la recursividad, la iteración, los métodos por aproximaciones sucesivas, el ensayo-error, los métodos colaborativos, entre otros.
+
+Enseñar Pensamiento Computacional es una decisión política. Implica, fundamentalmente, impulsar un modelo democratizador. No es enseñar lenguajes o habilidades técnicas para especialistas, como tampoco lo es enseñar programación. La diferencia entre programar y pensar computacionalmente es la diferencia entre ejecutar y comprender. 
+Se trata de brindar herramientas que sirvan a todas las personas, entendiendo también el contexto actual de creciente digitalización, para que puedan entender y manejarse autónomamente,  así como desarrollarse en un campo prometedor económicamente. 
