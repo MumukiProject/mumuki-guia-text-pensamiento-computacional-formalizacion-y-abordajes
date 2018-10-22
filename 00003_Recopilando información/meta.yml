@@ -1,0 +1,19 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Género
+  checked: true
+- value: Cantidad de años en la institución
+  checked: false
+- value: Si atravesó diferentes instituciones
+  checked: true
+- value: Poder adquisitivo
+  checked: true
+- value: Composición familiar y grado de acompañamiento de adult@s
+  checked: true
+name: Recopilando información

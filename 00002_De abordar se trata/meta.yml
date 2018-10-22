@@ -7,7 +7,7 @@ extra_visible: false
 manual_evaluation: false
 choices:
 - value: Convocar a l@s estudiantes que no se encuentran en la institución
-  checked: false
+  checked: true
 - value: Mejorar el seguimiento de l@s estudiantes en la institución
   checked: true
 - value: Aumentar el interés dentro de la escuela
