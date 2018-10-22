@@ -1,0 +1,25 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Todas las mujeres son madres
+  checked: false
+- value: Michelle y Sebastian no tienen buena asistencia y tienen trabajos esporádicos
+  checked: true
+- value: Nicolás, María y Río tienen buena asistencia
+  checked: true
+- value: Todos los hombres además de estudiar trabajan
+  checked: false
+- value: Julieta y Sebastián no tienen buena asistencia y tienen hijas
+  checked: true
+- value: Maria, Sebastian y Julieta viven cerca de la escuela
+  checked: true
+- value: Todos los que viven cerca tienen buena asistencia
+  checked: false
+- value: Nicolás, Michelle y Río viven lejos de la escuela
+  checked: true
+name: De coincidencias a patrones
