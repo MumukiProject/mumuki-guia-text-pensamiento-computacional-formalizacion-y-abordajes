@@ -1,0 +1,26 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Relevamiento de las personas a las cuales está dirigido el juego
+  checked: true
+- value: Recopilar información sobre los juegos que actualmente usan las generaciones
+    implicadas
+  checked: true
+- value: Armar un ranking de los mejores juegos del mundo
+  checked: false
+- value: Conocer los diferentes tipos de juegos posibles y sus reglas
+  checked: true
+- value: Espacios comunes que comparten personas de estas generaciones
+  checked: true
+- value: Analizar las composiciones familiares para llegar a un standard
+  checked: false
+- value: Materiales para la realización de juegos
+  checked: false
+- value: Temas de interés de las 3 generaciones
+  checked: true
+name: Aplicando descomposición

@@ -1,0 +1,1 @@
+> ¿Cuáles de las siguientes opciones son subproblemas?
