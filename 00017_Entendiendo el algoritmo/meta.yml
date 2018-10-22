@@ -15,7 +15,7 @@ choices:
 - value: Porque tienen operaciones matemáticas
   checked: false
 - value: Porque es realizable
-  checked: false
+  checked: true
 - value: Porque puede ser ejecutado por una computadora
   checked: false
 name: Entendiendo el algoritmo
