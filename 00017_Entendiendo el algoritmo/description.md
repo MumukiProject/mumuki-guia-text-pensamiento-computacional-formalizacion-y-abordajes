@@ -1,0 +1,1 @@
+> Marcá las opciones que te parezca que respondan por qué es un algoritmo.

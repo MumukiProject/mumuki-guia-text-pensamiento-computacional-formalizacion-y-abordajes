@@ -1,0 +1,1 @@
+> Completá el algoritmo para armar una flor y utilizalo arrastrando los bloques al sector de programa.

@@ -1,0 +1,21 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Porque tiene un objetivo a cumplir
+  checked: true
+- value: Porque son consignas a cumplir
+  checked: false
+- value: Porque es una secuencia de pasos ordenados a realizar
+  checked: true
+- value: Porque tienen operaciones matemáticas
+  checked: false
+- value: Porque es realizable
+  checked: false
+- value: Porque puede ser ejecutado por una computadora
+  checked: false
+name: Entendiendo el algoritmo
