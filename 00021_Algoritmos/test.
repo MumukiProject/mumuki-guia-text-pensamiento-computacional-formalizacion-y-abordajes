@@ -1,0 +1,10 @@
+- name: El orden de los pasos para la entrevista es el correcto
+  keys:
+    first_step: 
+      contain: Acondicionar
+    second_step:
+      contain: Realizar
+    third_step:
+      contain: Sistematizar
+    forth_step:
+      contain: Perez

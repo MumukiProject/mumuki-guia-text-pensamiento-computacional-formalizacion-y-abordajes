@@ -1,5 +1,5 @@
 Una forma posible de abordar un subproblema es mediante el diseño de algoritmos, es decir, de **secuencias ordenadas de pasos** que sirven para resolver el problema. Pero, ¿cuáles son los puntos a abordar? ¿Qué pasos hay que seguir? ¿Cuál es el orden?
- 
+
 Si tomamos el primero de nuestros subproblemas, "_La necesidad de crear un sistema de diagnóstico de l@s estudiantes_", luego de crear la ficha con el relevamiento de datos técnicos y preguntas a l@s estudiantes, podríamos:
 
 <div class="panel panel-default" style="width:50%;">
@@ -29,6 +29,6 @@ Si tomamos el primero de nuestros subproblemas, "_La necesidad de crear un siste
 * Acondicionar el espacio según lo acordado.
 * Realizar y registrar la entrevista.
 * Sistematizar la información relevante.
-* Acondicionar el espacio.
+* Acordar entrevista.
 
 
