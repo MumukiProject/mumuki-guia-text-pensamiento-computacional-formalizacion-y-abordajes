@@ -1,3 +1,4 @@
-
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-formalizacion-y-abordajes/master/assets/tecla_juegos_1_1540308806922.png" alt="tecla_juegos_1_1540308806922.png" width="auto" height="auto">
+<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-formalizacion-y-abordajes/master/assets/tecla_juegos_2_1540310074702.png" alt="tecla_juegos_2_1540310074702.png" width="auto" height="auto"><img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-text-pensamiento-computacional-formalizacion-y-abordajes/master/assets/tecla_juegos_3_1540310115303.png" alt="tecla_juegos_3_1540310115303.png" width="auto" height="auto">
 
 > Seleccioná los patrones que creas correctos:
