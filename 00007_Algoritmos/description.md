@@ -1,6 +1,6 @@
-Una forma posible de abordar un subproblema es mediante el diseño de algoritmos, es decir, de secuencias ordenadas de pasos que sirven para resolver el problema. Pero, ¿cuáles son los puntos a abordar? ¿Qué pasos hay que seguir? ¿Cuál es el orden?
+Una forma posible de abordar un subproblema es mediante el diseño de algoritmos, es decir, de **secuencias ordenadas de pasos** que sirven para resolver el problema. Pero, ¿cuáles son los puntos a abordar? ¿Qué pasos hay que seguir? ¿Cuál es el orden?
 
-Si tomamos el primero de nuestros subproblemas, “La necesidad de crear un sistema de diagnóstico de l@s estudiantes”, podríamos formular:
+Si tomamos el primero de nuestros subproblemas, "_La necesidad de crear un sistema de diagnóstico de l@s estudiantes_", podríamos formular:
 
 * Recopilar información a través de una ficha de admisión:
 
@@ -23,5 +23,5 @@ Si tomamos el primero de nuestros subproblemas, “La necesidad de crear un sist
 3. Realizar y registrar la entrevista.
 4. Sistematizar la información relevante.
 
-No todo proceso es algoritmizable y también puede que haya partes que sí lo sean aunque el macro no. Esto mismo se aplica a lo computarizable, hay partes y subproblemas que precisan de nuestras subjetividades y manualidades. ¡Lo importante es no perder tiempo, energía y recursos en cosas que sean automatizables!
+No todo proceso es _algoritmizable_ y también puede que haya partes que sí lo sean aunque el macro no. Esto mismo se aplica a lo computarizable, hay partes y subproblemas que precisan de nuestras subjetividades y manualidades. ¡Lo importante es no perder tiempo, energía y recursos en cosas que sean automatizables!
 
