@@ -1,1 +1,0 @@
-> ¿Cuál de los siguientes es un algoritmo?

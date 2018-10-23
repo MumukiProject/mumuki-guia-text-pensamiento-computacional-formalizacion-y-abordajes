@@ -1,0 +1,19 @@
+---
+tags: []
+layout: input_bottom
+editor: multiple_choice
+type: problem
+extra_visible: false
+manual_evaluation: false
+choices:
+- value: Opción 1
+  checked: false
+- value: Opción 2
+  checked: false
+- value: Opción 3
+  checked: true
+- value: Opción 4
+  checked: false
+- value: Opción 5
+  checked: false
+name: Reconociendo algoritmos
