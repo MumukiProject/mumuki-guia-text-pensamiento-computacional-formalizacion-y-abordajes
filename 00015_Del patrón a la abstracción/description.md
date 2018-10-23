@@ -5,4 +5,4 @@
 * los juegos de tablero son intergeneracionales;
 * el clue es un juego intergeneracional.
 
-Concluimos que que un juego es intergeneracional cuando miembros de edades diferentes disfrutan su uso compartiendolo, es llamativo en su estética, usa lógica, la temática genera interés y el final no es predecible.
+Concluimos que un juego es intergeneracional cuando miembros de edades diferentes disfrutan su uso compartiendolo, es llamativo en su estética, usa lógica, la temática genera interés y el final no es predecible.
