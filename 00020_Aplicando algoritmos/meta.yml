@@ -1,8 +1,8 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: custom
+type: problem
 extra_visible: false
 language: gobstones
 manual_evaluation: false
