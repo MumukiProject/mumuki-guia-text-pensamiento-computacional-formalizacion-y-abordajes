@@ -8,22 +8,30 @@ manual_evaluation: false
 choices:
 - value: El ajedrez, carrera de mente, clue y juego de la oca requieren más tiempo
     para su finalización
-  checked: false
+  checked: true
 - value: Las personas en edad adulta prefieren el ajedrez, el clue y el carrera de
     mente
   checked: true
-- value: L@s adolescentes prefieren el clue y el 4 en linea
-  checked: true
+- value: El rompecabezas, el ajedrez y el carrera de mente son los juegos más difíciles
+  checked: false
 - value: L@s pequeñ@s en edad primaria prefieren el operation, el clue y el juego
     de la oca
   checked: true
-- value: L@s pequeñ@s en edad inicial prefieren el rompecabezas y bingo
-  checked: true
+- value: L@s pequeñ@s en edad inicial prefieren el operation y el ajedrez
+  checked: false
 - value: El 4 en línea y ajedrez están pensados para 2 jugadores, el resto a partir
     de 2
   checked: true
 - value: El juego de la oca, el bingo y el carrera de mente manejan el azar como componente
-  checked: false
+  checked: true
 - value: El juego de ajedrez y el 4 en línea son juegos de lógica
   checked: true
+- value: L@s adult@s no juegan
+  checked: false
+- value: L@s pequeñ@s en edad inicial prefieren el rompecabezas y bingo
+  checked: true
+- value: L@s adolescentes prefieren el clue y el 4 en linea
+  checked: true
+- value: El carrera de mente y el bingo son juegos de lógica
+  checked: false
 name: Buscando patrones
