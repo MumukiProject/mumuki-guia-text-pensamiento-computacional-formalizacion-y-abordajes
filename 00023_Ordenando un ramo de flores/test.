@@ -1,0 +1,8 @@
+- name: El orden de los pasos para dibujar la flor es el correcto
+  keys:
+    first_step: 
+      contain: Empezá
+    second_step:
+      contain: pétalos
+    third_step:
+      contain: tallo

@@ -1,10 +1,9 @@
 ---
 tags: []
 layout: input_bottom
-editor: code
-type: reading
+editor: free_form
+type: problem
 extra_visible: false
-language: gobstones
 manual_evaluation: false
 choices: []
-name: Aplicando algoritmos
+name: Ordenando un ramo de flores
