@@ -1,17 +1,9 @@
 ---
 tags: []
 layout: input_bottom
-editor: multiple_choice
-type: problem
+editor: code
+type: reading
 extra_visible: false
 manual_evaluation: false
-choices:
-- value: Necesidad de crear un sistema de diagnóstico de l@s estudiantes
-  checked: true
-- value: Evaluar los mecanismos de acompañamiento institucional
-  checked: true
-- value: Optimizar el almacenamiento de información para que sea funcional
-  checked: true
-- value: Evaluar y desarrollar espacios de diálogo con el estudiantado
-  checked: true
+choices: []
 name: Partiendo el problema en subproblemas
