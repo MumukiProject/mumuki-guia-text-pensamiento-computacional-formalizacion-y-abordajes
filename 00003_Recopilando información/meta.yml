@@ -9,7 +9,7 @@ choices:
 - value: Género
   checked: true
 - value: Cantidad de años en la institución
-  checked: false
+  checked: true
 - value: Si atravesó diferentes instituciones
   checked: true
 - value: Poder adquisitivo
