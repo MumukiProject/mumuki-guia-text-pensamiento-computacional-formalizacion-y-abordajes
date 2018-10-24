@@ -1,0 +1,1 @@
+Nuestro algoritmo nos puede servir para construir partes del juego, reglas, consignas o incluso podríamos armar uno para evaluar si nuestras propuestas funcionan o compararlas con nuevos juegos para realizar mejoras.
