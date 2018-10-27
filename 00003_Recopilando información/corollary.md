@@ -1,2 +1,2 @@
 La sistematización de la información recaudada nos lleva a la búsqueda o al encuentro de patrones. Esta primer herramienta de PC permite generar conexiones y discriminar la información que no sea relevante (no porque no nos interese, sino porque no nos lleva a la resolución del problema).
-La información recaudada nos lleva a la búsqueda o el encuentro de patrones. Esta primer herramienta de PC permite generar conexiones y discriminar la información que no sea relevante (no porque no nos interese, sino porque no nos lleva a la resolución del problema).
+La información recaudada nos lleva a la búsqueda o el encuentro de patrones. Esta primer herramienta de PC permite generar conexiones significativa entre la información.
