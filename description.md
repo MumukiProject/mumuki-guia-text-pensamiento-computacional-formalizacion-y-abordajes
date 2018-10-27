@@ -1,4 +1,4 @@
-La educación es una herramienta problematizadora de la realidad. Basaremos el aprendizaje en la visualización y abordaje de problemáticas reales. 
+Basaremos el aprendizaje en la visualización y abordaje de problemáticas reales. 
 
 Por ejemplo, consideramos que la educación es un derecho pero... ¿Qué pasa con l@s estudiantes que no finalizan sus trayectorias escolares? ¿Cuáles son las causas? ¿Qué indicadores hay? ¿Por qué es un problema? ¿Qué componentes tiene esta problemática? En una región lejana vive Dani, trabaja en una escuela cercana a su casa y hoy cuando preparaba el mate se acordó de un@ estudiante que dejó de cursar. ¿Qué le habrá sucedido? ¿Por qué dejó? 
 
