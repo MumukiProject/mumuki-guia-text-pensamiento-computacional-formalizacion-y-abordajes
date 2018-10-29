@@ -7,4 +7,6 @@ Supongamos que a través de encuestas pudimos recaudar la siguiente información
 * Sebastián tiene una asistencia inestable, vive cerca de la escuela en la casa de la familia de su pareja, tiene trabajos esporádicos y le gusta ir al parque con su hija;
 * Nicolás tiene buena asistencia, vive lejos de la escuela con sus madres, ambas trabajan, le gusta el deporte.
 
-> Mirando toda esta informacion ¿Qué patrones encontrás?
+Mirando toda esta informacion:
+
+> ¿Qué patrones encontrás?
