@@ -1,10 +1,10 @@
 - name: El orden de los pasos para la entrevista es el correcto
   keys:
-    first_step: 
+    primer_paso: 
       contain: Acordar
-    second_step:
+    segundo_paso:
       contain: Acondicionar
-    third_step:
+    tercer_paso:
       contain: Realizar
-    forth_step:
+    cuarto_paso:
       contain: Sistematizar
