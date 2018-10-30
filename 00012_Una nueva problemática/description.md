@@ -1,6 +1,6 @@
 Repasemos entonces, las 4 habilidades son:
 
-* Descomposición en subproblemas;
+* descomposición en subproblemas;
 * detección de patrones;
 * construcción de abstracciones;
 * diseño de algoritmos.
