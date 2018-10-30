@@ -6,8 +6,8 @@ type: problem
 extra_visible: false
 manual_evaluation: false
 choices:
-- value: El ajedrez, carrera de mente, clue y juego de la oca requieren más tiempo
-    para su finalización
+- value: El carrera de mente, clue y juego de la oca requieren más tiempo para su
+    finalización
   checked: true
 - value: Las personas en edad adulta prefieren el ajedrez, el clue y el carrera de
     mente
