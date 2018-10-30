@@ -1,3 +1,5 @@
+Ahora que ya sabemos bien lo que es un algoritmo...
+
 > Ordená los siguientes pasos para poder dibujar una flor:
 >
 * Dibujá el tallo pegado a uno de los pétalos.
