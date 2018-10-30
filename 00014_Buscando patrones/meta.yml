@@ -19,8 +19,7 @@ choices:
   checked: true
 - value: L@s pequeñ@s en edad inicial prefieren el operation y el ajedrez
   checked: false
-- value: El 4 en línea y ajedrez están pensados para 2 jugadores, el resto a partir
-    de 2
+- value: El 4 en línea y ajedrez están pensados para 2 jugadores
   checked: true
 - value: El juego de la oca, el bingo y el carrera de mente manejan el azar como componente
   checked: true
