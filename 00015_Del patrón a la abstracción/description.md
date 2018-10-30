@@ -1,3 +1,5 @@
+Veamos que patrones identificamos en los juegos de mesa:
+
 * Todos los juegos tienen colores;
 * todos los juegos son competitivos;
 * los juegos para pequeñ@s requieren menos tiempo y más simpleza;
