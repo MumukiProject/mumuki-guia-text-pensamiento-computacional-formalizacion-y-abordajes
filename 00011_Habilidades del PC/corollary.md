@@ -1,1 +1,1 @@
-Hay que tener en cuenta a la hora de pensar y aplicar las habilidades, que son 4 herramientas que se tejen y entretejen aunque son independientes. De acuerdo a las necesidades de abordaje del problema en que orden se utilizan y muchas veces aparece alguna dentro de otra. 
+Hay que tener en cuenta a la hora de pensar y aplicar las habilidades, que son 4 herramientas que se tejen y entretejen aunque son independientes. De acuerdo a las necesidades de abordaje del problema se utilizan en momentos diferentes y muchas veces aparece alguna dentro de otra.
